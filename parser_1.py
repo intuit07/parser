@@ -7,6 +7,6 @@ count = 0
 while count < 10:
     count += 1
     for el in s_res:
-        res = str(count)+'.'+str(el)
+        res = str(count) + '.' + str(el)
     print(res)
 
